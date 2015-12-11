@@ -1,0 +1,19 @@
+{
+  "name": "npm-dep-test",
+  "version": "0.0.1",
+  "description": "NPM dependency test",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hjoliveira/npm-dep-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hjoliveira/npm-dep-test/issues"
+  },
+  "homepage": "https://github.com/hjoliveira/npm-dep-test#readme"
+}
